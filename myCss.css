@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+  }
+  
+  header {
+    background: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    background: #48cae4;
+    padding: 10px;
+  }
+  
+  nav button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background: #023e8a;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  nav button:hover {
+    background: #0096c7;
+  }
+  
+  .container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .box {
+    background: white;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px gray;
+  }
+  
